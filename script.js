@@ -25,15 +25,15 @@ const quizArray = [
   },
   {
     id: "1",
-    question: "Which is the only continent in the world without a desert?",
-    options: ["North America", "Asia", "Africa", "Europe"],
-    correct: "Europe",
+    question: "Dagmada waajid waxey ka tirsantahay gobalka ?",
+    options: ["Baay", "Gedo", "Bakool", "jubada dhaxe"],
+    correct: "Bakool",
   },
   {
     id: "2",
-    question: "Who invented Computer?",
-    options: ["Charles Babbage", "Henry Luce", "Henry Babbage", "Charles Luce"],
-    correct: "Charles Babbage",
+    question: "Dagmada afgooye waa magaala madaxda gobalka?",
+    options: ["shabeelaha hoose", "shabeelaha dhaxe", "midna", "jowhar"],
+    correct: "midna",
   },
 ];
 
