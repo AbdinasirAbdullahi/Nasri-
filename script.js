@@ -19,9 +19,9 @@ let countdown;
 const quizArray = [
   {
     id: "0",
-    question: "Which is the most widely spoken language in the world?",
-    options: ["Spanish", "Mandarin", "English", "German"],
-    correct: "Mandarin",
+    question: "sheeg madaxweynihii ugu horeey ee soomaaliya?",
+    options: ["cabdirashiid cali sharmaake", "siyaad bare", "farmaajo", "Aadan cade"],
+    correct: "Aadan cade",
   },
   {
     id: "1",
