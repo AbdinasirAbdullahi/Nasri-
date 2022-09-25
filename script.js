@@ -11,7 +11,7 @@ let startScreen = document.querySelector(".start-screen");
 let startButton = document.getElementById("start-button");
 let questionCount;
 let scoreCount = 0;
-let count = 11;
+let count = 61;
 let countdown;
 
 //Questions and Options array
@@ -49,7 +49,7 @@ const quizArray = [
     id: "4",
     question: "Dagmada maxaas waxa ay hoos tagtaa gobalka?",
     options: ["Bakool", "shabeelaha dhaxe", "galgaduud", "Hiiraan"],
-    correct: "midna",
+    correct: "Hiiraan",
   },
 
 
@@ -82,7 +82,7 @@ nextBtn.addEventListener(
         questionCount + 1 + " of " + quizArray.length + " Question";
       //display quiz
       quizDisplay(questionCount);
-      count = 11;
+      count = 61;
       clearInterval(countdown);
       timerDisplay();
     }
@@ -175,7 +175,7 @@ function initial() {
   quizContainer.innerHTML = "";
   questionCount = 0;
   scoreCount = 0;
-  count = 11;
+  count = 61;
   clearInterval(countdown);
   timerDisplay();
   quizCreator();
