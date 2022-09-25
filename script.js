@@ -35,6 +35,24 @@ const quizArray = [
     options: ["shabeelaha hoose", "shabeelaha dhaxe", "midna", "jowhar"],
     correct: "midna",
   },
+
+{
+    id: "3",
+    question: "Dagmada kismaayo waa magaala madaxda gobalka?",
+    options: ["Gedo", "jubada dhaxe", "jubada hoose", "jubland"],
+    correct: "jubada hoose",
+
+  },
+
+
+{
+    id: "4",
+    question: "Dagmada maxaas waxa ay hoos tagtaa gobalka?",
+    options: ["Bakool", "shabeelaha dhaxe", "galgaduud", "Hiiraan"],
+    correct: "midna",
+  },
+
+
 ];
 
 //Restart Quiz
