@@ -75,7 +75,7 @@ nextBtn.addEventListener(
       scoreContainer.classList.remove("hide");
       //user score
       userScore.innerHTML =
-        "Your score is " + scoreCount + " out of " + questionCount;
+        "Natiijadaada waa " + scoreCount + " / " + questionCount;
     } else {
       //display questionCount
       countOfQuestion.innerHTML =
