@@ -75,7 +75,7 @@ nextBtn.addEventListener(
       scoreContainer.classList.remove("hide");
       //user score
       userScore.innerHTML =
-        "Natiijadaada waa " + scoreCount + " / " + questionCount;
+        "Natiijada " + scoreCount + " / " + questionCount;
     } else {
       //display questionCount
       countOfQuestion.innerHTML =
