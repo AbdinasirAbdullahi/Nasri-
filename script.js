@@ -53,6 +53,14 @@ const quizArray = [
   },
 
 
+{
+    id: "5",
+    question: "Baraawe waa caasimada",
+    options: ["shabeelaha hoose", "shabeelaha dhaxe", "Koonfurgalbeed", "baydhabo"],
+    correct: "Koonfurgalbeed",
+  },
+
+
 ];
 
 //Restart Quiz
